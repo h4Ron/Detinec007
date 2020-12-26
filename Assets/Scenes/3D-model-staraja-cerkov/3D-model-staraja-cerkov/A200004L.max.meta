@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 01801e0ccbaefef4baab128c65ec7d7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TNRSCRS3
+    100004: TRNSBDY1
+    100006: TRNSBDY2
+    100008: TRNSBDY3
+    100010: TRNSBDY4
+    100012: TRNSBDY5
+    100014: TRNSBDY6
+    100016: TRNSBDY7
+    100018: TRNSBDY8
+    100020: TRNSCLMN
+    100022: TRNSCRS1
+    100024: TRNSCRS2
+    100026: TRNSDOM1
+    100028: TRNSDOM2
+    100030: TRNSDOM3
+    100032: TRNSDOOR
+    100034: TRNSFRMD
+    100036: TRNSFRME
+    100038: TRNSGLSS
+    100040: TRNSHINGE
+    100042: TRNSLOCK
+    100044: TRNSMNTN
+    100046: TRNSPEAK
+    100048: TRNSPOST
+    100050: TRNSPRCH
+    100052: TRNSROOF
+    100054: TRNSSTP1
+    100056: TRNSSTP2
+    100058: TRNSSTP3
+    100060: TRNSTILE
+    100062: TRNSTWR1
+    100064: TRNSTWR2
+    400000: //RootNode
+    400002: TNRSCRS3
+    400004: TRNSBDY1
+    400006: TRNSBDY2
+    400008: TRNSBDY3
+    400010: TRNSBDY4
+    400012: TRNSBDY5
+    400014: TRNSBDY6
+    400016: TRNSBDY7
+    400018: TRNSBDY8
+    400020: TRNSCLMN
+    400022: TRNSCRS1
+    400024: TRNSCRS2
+    400026: TRNSDOM1
+    400028: TRNSDOM2
+    400030: TRNSDOM3
+    400032: TRNSDOOR
+    400034: TRNSFRMD
+    400036: TRNSFRME
+    400038: TRNSGLSS
+    400040: TRNSHINGE
+    400042: TRNSLOCK
+    400044: TRNSMNTN
+    400046: TRNSPEAK
+    400048: TRNSPOST
+    400050: TRNSPRCH
+    400052: TRNSROOF
+    400054: TRNSSTP1
+    400056: TRNSSTP2
+    400058: TRNSSTP3
+    400060: TRNSTILE
+    400062: TRNSTWR1
+    400064: TRNSTWR2
+    2100000: TRNSWO3
+    2100002: TRNSWO7
+    2100004: TRNSMTAL
+    2100006: TRNSWO1
+    2100008: TRNSWO2
+    2100010: TRNSWO4
+    2100012: TRNSGLSS
+    2100014: 'Material #46'
+    2100016: 'Material #48'
+    2100018: 'Material #47'
+    2100020: 'Material #44'
+    2100022: 'Material #45'
+    2100024: TRNSTILE
+    2100026: TRNSWO8
+    2100028: 'Material #43'
+    2300000: TNRSCRS3
+    2300002: TRNSBDY1
+    2300004: TRNSBDY2
+    2300006: TRNSBDY3
+    2300008: TRNSBDY4
+    2300010: TRNSBDY5
+    2300012: TRNSBDY6
+    2300014: TRNSBDY7
+    2300016: TRNSBDY8
+    2300018: TRNSCLMN
+    2300020: TRNSCRS1
+    2300022: TRNSCRS2
+    2300024: TRNSDOM1
+    2300026: TRNSDOM2
+    2300028: TRNSDOM3
+    2300030: TRNSDOOR
+    2300032: TRNSFRMD
+    2300034: TRNSFRME
+    2300036: TRNSGLSS
+    2300038: TRNSHINGE
+    2300040: TRNSLOCK
+    2300042: TRNSMNTN
+    2300044: TRNSPEAK
+    2300046: TRNSPOST
+    2300048: TRNSPRCH
+    2300050: TRNSROOF
+    2300052: TRNSSTP1
+    2300054: TRNSSTP2
+    2300056: TRNSSTP3
+    2300058: TRNSTILE
+    2300060: TRNSTWR1
+    2300062: TRNSTWR2
+    3300000: TNRSCRS3
+    3300002: TRNSBDY1
+    3300004: TRNSBDY2
+    3300006: TRNSBDY3
+    3300008: TRNSBDY4
+    3300010: TRNSBDY5
+    3300012: TRNSBDY6
+    3300014: TRNSBDY7
+    3300016: TRNSBDY8
+    3300018: TRNSCLMN
+    3300020: TRNSCRS1
+    3300022: TRNSCRS2
+    3300024: TRNSDOM1
+    3300026: TRNSDOM2
+    3300028: TRNSDOM3
+    3300030: TRNSDOOR
+    3300032: TRNSFRMD
+    3300034: TRNSFRME
+    3300036: TRNSGLSS
+    3300038: TRNSHINGE
+    3300040: TRNSLOCK
+    3300042: TRNSMNTN
+    3300044: TRNSPEAK
+    3300046: TRNSPOST
+    3300048: TRNSPRCH
+    3300050: TRNSROOF
+    3300052: TRNSSTP1
+    3300054: TRNSSTP2
+    3300056: TRNSSTP3
+    3300058: TRNSTILE
+    3300060: TRNSTWR1
+    3300062: TRNSTWR2
+    4300000: TRNSCRS1
+    4300002: TRNSPEAK
+    4300004: TRNSHINGE
+    4300006: TRNSSTP2
+    4300008: TRNSSTP3
+    4300010: TRNSCLMN
+    4300012: TRNSBDY1
+    4300014: TRNSMNTN
+    4300016: TRNSGLSS
+    4300018: TRNSBDY7
+    4300020: TRNSBDY6
+    4300022: TRNSBDY2
+    4300024: TRNSBDY5
+    4300026: TRNSBDY8
+    4300028: TRNSPRCH
+    4300030: TRNSROOF
+    4300032: TRNSLOCK
+    4300034: TRNSDOM2
+    4300036: TRNSBDY4
+    4300038: TRNSTILE
+    4300040: TRNSDOM3
+    4300042: TRNSDOM1
+    4300044: TRNSPOST
+    4300046: TRNSTWR1
+    4300048: TRNSDOOR
+    4300050: TRNSFRMD
+    4300052: TNRSCRS3
+    4300054: TRNSSTP1
+    4300056: TRNSTWR2
+    4300058: TRNSFRME
+    4300060: TRNSCRS2
+    4300062: TRNSBDY3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: b7f6d4ffc2463514db119fce2531a042
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box009
+    100002: Box019
+    100004: Box022
+    100006: Church005
+    100008: //RootNode
+    100010: Foliage005
+    100012: Line001
+    100014: Plane001
+    100016: TRNSHAND002
+    100018: TRNSPOST001
+    100020: TRNSPOST002
+    100022: wooden_house_04_a004
+    100024: wooden_house_05_a010
+    100026: wooden_house_05_a020
+    100028: wooden_house_05_a052
+    400000: Box009
+    400002: Box019
+    400004: Box022
+    400006: Church005
+    400008: //RootNode
+    400010: Foliage005
+    400012: Line001
+    400014: Plane001
+    400016: TRNSHAND002
+    400018: TRNSPOST001
+    400020: TRNSPOST002
+    400022: wooden_house_04_a004
+    400024: wooden_house_05_a010
+    400026: wooden_house_05_a020
+    400028: wooden_house_05_a052
+    2100000: 02 - Default33
+    2100002: 05 - Default
+    2100004: 03 - Default2
+    2100006: wooden_house_05_wooden_house_05
+    2100008: 04 - Default
+    2100010: wooden_house_04
+    2100012: Trunk
+    2100014: Leaves
+    2100016: 08 - Default
+    2100018: 09 - Default
+    2300000: Box009
+    2300002: Box019
+    2300004: Box022
+    2300006: Church005
+    2300008: Foliage005
+    2300010: Line001
+    2300012: Plane001
+    2300014: TRNSHAND002
+    2300016: TRNSPOST001
+    2300018: TRNSPOST002
+    2300020: wooden_house_04_a004
+    2300022: wooden_house_05_a010
+    2300024: wooden_house_05_a020
+    2300026: wooden_house_05_a052
+    3300000: Box009
+    3300002: Box019
+    3300004: Box022
+    3300006: Church005
+    3300008: Foliage005
+    3300010: Line001
+    3300012: Plane001
+    3300014: TRNSHAND002
+    3300016: TRNSPOST001
+    3300018: TRNSPOST002
+    3300020: wooden_house_04_a004
+    3300022: wooden_house_05_a010
+    3300024: wooden_house_05_a020
+    3300026: wooden_house_05_a052
+    4300000: Plane001
+    4300002: Church005
+    4300004: wooden_house_05_a010
+    4300006: wooden_house_05_a020
+    4300008: Box009
+    4300010: wooden_house_04_a004
+    4300012: Box019
+    4300014: Box022
+    4300016: Foliage005
+    4300018: Line001
+    4300020: wooden_house_05_a052
+    4300022: TRNSPOST001
+    4300024: TRNSHAND002
+    4300026: TRNSPOST002
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
